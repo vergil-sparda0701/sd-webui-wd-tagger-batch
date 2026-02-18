@@ -22,7 +22,7 @@ Based on **[avan06/wd-tagger-images](https://github.com/avan06/wd-tagger-images)
 ### Method 1 — Install from URL (recommended)
 
 1. Open **Extensions → Install from URL**
-2. Paste: `https://github.com/YOUR_USERNAME/sd-webui-wd-tagger-batch`
+2. Paste: `(https://github.com/vergil-sparda0701/sd-webui-wd-tagger-batch.git)`
 3. Click **Install**
 4. Restart SD WebUI
 
@@ -30,7 +30,7 @@ Based on **[avan06/wd-tagger-images](https://github.com/avan06/wd-tagger-images)
 
 ```bash
 cd stable-diffusion-webui/extensions
-git clone https://github.com/YOUR_USERNAME/sd-webui-wd-tagger-batch.git
+git clone https://github.com/vergil-sparda0701/sd-webui-wd-tagger-batch.git
 ```
 
 Then restart SD WebUI.
